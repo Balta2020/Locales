@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 , TIGO SPORT
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF:-1 , DAZN ALEMANIA
+http://103.145.12.195:8080/hls/streama150088/index.m3u8?cst=fe66168e20d8605b9f78f0ecb5c7fe4f
+#EXTINF:-1 , HCH
+https://5d597bfcee285.streamlock.net/hch/hch/.m3u8
+#EXTINF:-1 , La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 , La 2
+http://185.53.88.16:8080/hls/streama141882/index.m3u8?cst=6deead62cf9ca5c3dbeca363167d3f13
+#EXTINF:-1 , Canal 26
+https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1069723754_b1864000_sleng.m3u8
+#EXTINF:-1 , La Liga
+http://185.53.88.25:8080/hls/streama152278/index.m3u8?cst=10e30f05aa54f4a066326bf0887a7b63
+#EXTINF:-1 , Liga Turca
+http://103.145.12.195:8080/hls/streama142133/index.m3u8?cst=39b2f306a738b5204d38b90b40643200
+#EXTINF:-1 ,Liga Rusa
+http://185.53.88.25:8080/hls/streama144440/index.m3u8?cst=fffc98da2a0ac3f95538cd86fb8f020d
